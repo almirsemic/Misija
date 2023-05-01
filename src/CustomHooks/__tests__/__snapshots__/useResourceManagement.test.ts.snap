@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useResourceManagement should add a resource when user is logged in 1`] = `Promise {}`;
+
+exports[`useResourceManagement should delete a resource when user is logged in 1`] = `Promise {}`;
+
+exports[`useResourceManagement should edit a resource when user is logged in 1`] = `Promise {}`;
+
+exports[`useResourceManagement should return error message when user is not logged in while adding a resource 1`] = `Promise {}`;
+
+exports[`useResourceManagement should return error message when user is not logged in while deleting a resource 1`] = `Promise {}`;
+
+exports[`useResourceManagement should return error message when user is not logged in while editing a resource 1`] = `Promise {}`;
