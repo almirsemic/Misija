@@ -44,3 +44,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+###  Link to Vercel where you can view the app
+
+
+```
+https://misija.vercel.app/
+```
+
+
+![Screenshot from 2023-07-21 14-37-10](https://github.com/almirsemic/Misija/assets/90575221/455c12f3-d5dc-4686-be9a-bd3b8e7bb453)
+![Screenshot from 2023-07-21 14-36-41](https://github.com/almirsemic/Misija/assets/90575221/0f9f5bbe-8b5a-419d-bed4-9581c22b66c7)
+![Screenshot from 2023-07-21 14-36-33](https://github.com/almirsemic/Misija/assets/90575221/031be8a2-1f9e-4e91-8767-728386db6233)
+![Screenshot from 2023-07-21 14-36-24](https://github.com/almirsemic/Misija/assets/90575221/450acdce-0c0c-4bf7-b912-0550b1982299)
+![Screenshot from 2023-07-21 14-36-12](https://github.com/almirsemic/Misija/assets/90575221/4bfaea37-5529-4029-ada6-db6a96813a9d)
+![Screenshot from 2023-07-21 14-35-51](https://github.com/almirsemic/Misija/assets/90575221/30197162-ab55-49f9-8178-5a74ea98e56d)
+
